@@ -17,6 +17,7 @@ This Python script allows you to download audio from YouTube videos and playlist
 - `yt-dlp` (a powerful YouTube downloader)
 - `eyed3` (for handling MP3 metadata)
 - `Pillow` (for image processing)
+- **ffmpeg** (required by `yt-dlp` for audio format conversion)
   
 ### Install Required Packages
 

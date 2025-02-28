@@ -26,7 +26,7 @@ You can install the required Python packages using `pip`:
 ```bash
 pip install yt-dlp eyed3 pillow
 ```
-You may also have to add those to your PATH
+You will need to install [ffmpeg](https://ffmpeg.org/download.html) and add it to your PATH
 
 ## Usage
 

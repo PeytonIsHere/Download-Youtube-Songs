@@ -51,9 +51,10 @@ python download_audio.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" "Rick Ast
 ### Notes:
 - If you do not provide an album art image path, the script will skip adding album art.
 - If the album folder already exists, it will not be recreated. The script will use the existing folder.
-  
-## Log File
 
+## Issues
+
+This is still a work in proccess, I don't think the Album art is working correctly. That is why I have the log file still in the script.
 The script logs important events and errors in a `download_log.txt` file located in the same directory as the script. The log will contain information such as folder creation, file renaming, metadata addition, and any errors that occur during the process.
 
 ## Acknowledgements
